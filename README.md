@@ -4,3 +4,4 @@ rule_3
 rule_4
 rule_5
 rule_6
+rule_7
