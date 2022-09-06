@@ -3,3 +3,4 @@ rule_2
 rule_3
 rule_4
 rule_5
+rule_6
